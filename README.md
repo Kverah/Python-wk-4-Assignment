@@ -1,4 +1,4 @@
-Assignment: FILE HANDLING-File Read,Write & Error Handling Challenge 
+ASSIGNMENT: FILE HANDLING-File Read,Write & Error Handling Challenge 
 
 Overview
 
@@ -7,6 +7,9 @@ In this assignment, I will create a program that reads a file and writes a modif
 Objective
 
 I will create a Python program that reads a text file entered by the user, modifies its content and saves the modified version into a new file.It should also include error handling to prevent crashes when;
+
 -The file doesn't exist.
+
 -The user doesn't have permission to read it.
+
 -Any unexpected errors occur.
